@@ -1,0 +1,109 @@
+{
+    "source_video": "d:\\3D Reconstruction - 2\\video\\video.mp4",
+    "original_frame_count": 397,
+    "original_fps": 30.0,
+    "selected_frame_count": 20,
+    "selection_method": "uniform",
+    "frames": [
+        {
+            "output_frame": "frame_0000.jpg",
+            "source_frame_index": 0,
+            "timestamp_seconds": 0.0
+        },
+        {
+            "output_frame": "frame_0001.jpg",
+            "source_frame_index": 21,
+            "timestamp_seconds": 0.7
+        },
+        {
+            "output_frame": "frame_0002.jpg",
+            "source_frame_index": 42,
+            "timestamp_seconds": 1.4
+        },
+        {
+            "output_frame": "frame_0003.jpg",
+            "source_frame_index": 63,
+            "timestamp_seconds": 2.1
+        },
+        {
+            "output_frame": "frame_0004.jpg",
+            "source_frame_index": 83,
+            "timestamp_seconds": 2.7666666666666666
+        },
+        {
+            "output_frame": "frame_0005.jpg",
+            "source_frame_index": 104,
+            "timestamp_seconds": 3.466666666666667
+        },
+        {
+            "output_frame": "frame_0006.jpg",
+            "source_frame_index": 125,
+            "timestamp_seconds": 4.166666666666667
+        },
+        {
+            "output_frame": "frame_0007.jpg",
+            "source_frame_index": 146,
+            "timestamp_seconds": 4.866666666666666
+        },
+        {
+            "output_frame": "frame_0008.jpg",
+            "source_frame_index": 167,
+            "timestamp_seconds": 5.566666666666666
+        },
+        {
+            "output_frame": "frame_0009.jpg",
+            "source_frame_index": 188,
+            "timestamp_seconds": 6.266666666666667
+        },
+        {
+            "output_frame": "frame_0010.jpg",
+            "source_frame_index": 208,
+            "timestamp_seconds": 6.933333333333334
+        },
+        {
+            "output_frame": "frame_0011.jpg",
+            "source_frame_index": 229,
+            "timestamp_seconds": 7.633333333333334
+        },
+        {
+            "output_frame": "frame_0012.jpg",
+            "source_frame_index": 250,
+            "timestamp_seconds": 8.333333333333334
+        },
+        {
+            "output_frame": "frame_0013.jpg",
+            "source_frame_index": 271,
+            "timestamp_seconds": 9.033333333333333
+        },
+        {
+            "output_frame": "frame_0014.jpg",
+            "source_frame_index": 292,
+            "timestamp_seconds": 9.733333333333333
+        },
+        {
+            "output_frame": "frame_0015.jpg",
+            "source_frame_index": 313,
+            "timestamp_seconds": 10.433333333333334
+        },
+        {
+            "output_frame": "frame_0016.jpg",
+            "source_frame_index": 333,
+            "timestamp_seconds": 11.1
+        },
+        {
+            "output_frame": "frame_0017.jpg",
+            "source_frame_index": 354,
+            "timestamp_seconds": 11.8
+        },
+        {
+            "output_frame": "frame_0018.jpg",
+            "source_frame_index": 375,
+            "timestamp_seconds": 12.5
+        },
+        {
+            "output_frame": "frame_0019.jpg",
+            "source_frame_index": 396,
+            "timestamp_seconds": 13.2
+        }
+    ]
+}
