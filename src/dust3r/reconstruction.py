@@ -12,6 +12,7 @@ def reconstruct(
     frames_dir: str | Path,
     checkpoint_path: str | Path,
     output_dir: str | Path,
+    scene_graph:str="swin-2"
 ):
     frames_dir = Path(frames_dir)
     checkpoint_path = Path(checkpoint_path)
@@ -65,7 +66,7 @@ def reconstruct(
 
     pairs = make_pairs(
         images,
-        scene_graph="swin-2",
+        scene_graph=scene_graph,
         prefilter=None,
         symmetrize=True,
     )
