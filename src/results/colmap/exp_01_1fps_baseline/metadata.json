@@ -1,0 +1,17 @@
+{
+    "experiment_id": 1,
+    "experiment_name": "1fps_baseline",
+    "method": "COLMAP",
+    "frames": 397,
+    "matcher": "sequential",
+    "sequential_overlap": 10,
+    "use_gpu": true,
+    "gpu_index": 0,
+    "geom_consistency": true,
+    "best_model_id": 8,
+    "registered_images": 154,
+    "sparse_points": 1146,
+    "sparse_ply": "D:\\3D Reconstruction - 2\\src\\results\\colmap\\exp_01_1fps_baseline\\sparse.ply",
+    "dense_ply": "D:\\3D Reconstruction - 2\\src\\results\\colmap\\exp_01_1fps_baseline\\dense.ply",
+    "runtime_seconds": 1764.69
+}
