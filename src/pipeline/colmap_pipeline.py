@@ -12,8 +12,8 @@ import open3d as o3d
 
 CONFIG = {
     # Experiment
-    "experiment_id": 2,
-    "experiment_name": "25fps_baseline",
+    "experiment_id": 3,
+    "experiment_name": "10fps_baseline",
     # Paths
     "colmap_path": r"C:\Users\sejal\Downloads\colmap-x64-windows-cuda\bin\colmap.exe",
     "frames_path": "../data/frames",

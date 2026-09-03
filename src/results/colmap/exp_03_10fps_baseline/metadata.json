@@ -1,0 +1,16 @@
+{
+    "experiment_id": 3,
+    "experiment_name": "10fps_baseline",
+    "method": "COLMAP",
+    "frames": 133,
+    "matcher": "exhaustive",
+    "use_gpu": true,
+    "gpu_index": 0,
+    "geom_consistency": true,
+    "best_model_id": 5,
+    "registered_images": 64,
+    "sparse_points": 1020,
+    "sparse_ply": "D:\\3D Reconstruction - 2\\src\\results\\colmap\\exp_03_10fps_baseline\\sparse.ply",
+    "dense_ply": "D:\\3D Reconstruction - 2\\src\\results\\colmap\\exp_03_10fps_baseline\\dense.ply",
+    "runtime_seconds": 660.51
+}
