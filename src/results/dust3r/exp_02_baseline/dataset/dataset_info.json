@@ -1,0 +1,509 @@
+{
+    "source_video": "d:\\3D Reconstruction\\video\\video.mp4",
+    "original_frame_count": 397,
+    "original_fps": 30.0,
+    "selected_frame_count": 100,
+    "selection_method": "uniform",
+    "frames": [
+        {
+            "output_frame": "frame_0000.jpg",
+            "source_frame_index": 0,
+            "timestamp_seconds": 0.0
+        },
+        {
+            "output_frame": "frame_0001.jpg",
+            "source_frame_index": 4,
+            "timestamp_seconds": 0.13333333333333333
+        },
+        {
+            "output_frame": "frame_0002.jpg",
+            "source_frame_index": 8,
+            "timestamp_seconds": 0.26666666666666666
+        },
+        {
+            "output_frame": "frame_0003.jpg",
+            "source_frame_index": 12,
+            "timestamp_seconds": 0.4
+        },
+        {
+            "output_frame": "frame_0004.jpg",
+            "source_frame_index": 16,
+            "timestamp_seconds": 0.5333333333333333
+        },
+        {
+            "output_frame": "frame_0005.jpg",
+            "source_frame_index": 20,
+            "timestamp_seconds": 0.6666666666666666
+        },
+        {
+            "output_frame": "frame_0006.jpg",
+            "source_frame_index": 24,
+            "timestamp_seconds": 0.8
+        },
+        {
+            "output_frame": "frame_0007.jpg",
+            "source_frame_index": 28,
+            "timestamp_seconds": 0.9333333333333333
+        },
+        {
+            "output_frame": "frame_0008.jpg",
+            "source_frame_index": 32,
+            "timestamp_seconds": 1.0666666666666667
+        },
+        {
+            "output_frame": "frame_0009.jpg",
+            "source_frame_index": 36,
+            "timestamp_seconds": 1.2
+        },
+        {
+            "output_frame": "frame_0010.jpg",
+            "source_frame_index": 40,
+            "timestamp_seconds": 1.3333333333333333
+        },
+        {
+            "output_frame": "frame_0011.jpg",
+            "source_frame_index": 44,
+            "timestamp_seconds": 1.4666666666666666
+        },
+        {
+            "output_frame": "frame_0012.jpg",
+            "source_frame_index": 48,
+            "timestamp_seconds": 1.6
+        },
+        {
+            "output_frame": "frame_0013.jpg",
+            "source_frame_index": 52,
+            "timestamp_seconds": 1.7333333333333334
+        },
+        {
+            "output_frame": "frame_0014.jpg",
+            "source_frame_index": 56,
+            "timestamp_seconds": 1.8666666666666667
+        },
+        {
+            "output_frame": "frame_0015.jpg",
+            "source_frame_index": 60,
+            "timestamp_seconds": 2.0
+        },
+        {
+            "output_frame": "frame_0016.jpg",
+            "source_frame_index": 64,
+            "timestamp_seconds": 2.1333333333333333
+        },
+        {
+            "output_frame": "frame_0017.jpg",
+            "source_frame_index": 68,
+            "timestamp_seconds": 2.2666666666666666
+        },
+        {
+            "output_frame": "frame_0018.jpg",
+            "source_frame_index": 72,
+            "timestamp_seconds": 2.4
+        },
+        {
+            "output_frame": "frame_0019.jpg",
+            "source_frame_index": 76,
+            "timestamp_seconds": 2.533333333333333
+        },
+        {
+            "output_frame": "frame_0020.jpg",
+            "source_frame_index": 80,
+            "timestamp_seconds": 2.6666666666666665
+        },
+        {
+            "output_frame": "frame_0021.jpg",
+            "source_frame_index": 84,
+            "timestamp_seconds": 2.8
+        },
+        {
+            "output_frame": "frame_0022.jpg",
+            "source_frame_index": 88,
+            "timestamp_seconds": 2.933333333333333
+        },
+        {
+            "output_frame": "frame_0023.jpg",
+            "source_frame_index": 92,
+            "timestamp_seconds": 3.066666666666667
+        },
+        {
+            "output_frame": "frame_0024.jpg",
+            "source_frame_index": 96,
+            "timestamp_seconds": 3.2
+        },
+        {
+            "output_frame": "frame_0025.jpg",
+            "source_frame_index": 100,
+            "timestamp_seconds": 3.3333333333333335
+        },
+        {
+            "output_frame": "frame_0026.jpg",
+            "source_frame_index": 104,
+            "timestamp_seconds": 3.466666666666667
+        },
+        {
+            "output_frame": "frame_0027.jpg",
+            "source_frame_index": 108,
+            "timestamp_seconds": 3.6
+        },
+        {
+            "output_frame": "frame_0028.jpg",
+            "source_frame_index": 112,
+            "timestamp_seconds": 3.7333333333333334
+        },
+        {
+            "output_frame": "frame_0029.jpg",
+            "source_frame_index": 116,
+            "timestamp_seconds": 3.8666666666666667
+        },
+        {
+            "output_frame": "frame_0030.jpg",
+            "source_frame_index": 120,
+            "timestamp_seconds": 4.0
+        },
+        {
+            "output_frame": "frame_0031.jpg",
+            "source_frame_index": 124,
+            "timestamp_seconds": 4.133333333333334
+        },
+        {
+            "output_frame": "frame_0032.jpg",
+            "source_frame_index": 128,
+            "timestamp_seconds": 4.266666666666667
+        },
+        {
+            "output_frame": "frame_0033.jpg",
+            "source_frame_index": 132,
+            "timestamp_seconds": 4.4
+        },
+        {
+            "output_frame": "frame_0034.jpg",
+            "source_frame_index": 136,
+            "timestamp_seconds": 4.533333333333333
+        },
+        {
+            "output_frame": "frame_0035.jpg",
+            "source_frame_index": 140,
+            "timestamp_seconds": 4.666666666666667
+        },
+        {
+            "output_frame": "frame_0036.jpg",
+            "source_frame_index": 144,
+            "timestamp_seconds": 4.8
+        },
+        {
+            "output_frame": "frame_0037.jpg",
+            "source_frame_index": 148,
+            "timestamp_seconds": 4.933333333333334
+        },
+        {
+            "output_frame": "frame_0038.jpg",
+            "source_frame_index": 152,
+            "timestamp_seconds": 5.066666666666666
+        },
+        {
+            "output_frame": "frame_0039.jpg",
+            "source_frame_index": 156,
+            "timestamp_seconds": 5.2
+        },
+        {
+            "output_frame": "frame_0040.jpg",
+            "source_frame_index": 160,
+            "timestamp_seconds": 5.333333333333333
+        },
+        {
+            "output_frame": "frame_0041.jpg",
+            "source_frame_index": 164,
+            "timestamp_seconds": 5.466666666666667
+        },
+        {
+            "output_frame": "frame_0042.jpg",
+            "source_frame_index": 168,
+            "timestamp_seconds": 5.6
+        },
+        {
+            "output_frame": "frame_0043.jpg",
+            "source_frame_index": 172,
+            "timestamp_seconds": 5.733333333333333
+        },
+        {
+            "output_frame": "frame_0044.jpg",
+            "source_frame_index": 176,
+            "timestamp_seconds": 5.866666666666666
+        },
+        {
+            "output_frame": "frame_0045.jpg",
+            "source_frame_index": 180,
+            "timestamp_seconds": 6.0
+        },
+        {
+            "output_frame": "frame_0046.jpg",
+            "source_frame_index": 184,
+            "timestamp_seconds": 6.133333333333334
+        },
+        {
+            "output_frame": "frame_0047.jpg",
+            "source_frame_index": 188,
+            "timestamp_seconds": 6.266666666666667
+        },
+        {
+            "output_frame": "frame_0048.jpg",
+            "source_frame_index": 192,
+            "timestamp_seconds": 6.4
+        },
+        {
+            "output_frame": "frame_0049.jpg",
+            "source_frame_index": 196,
+            "timestamp_seconds": 6.533333333333333
+        },
+        {
+            "output_frame": "frame_0050.jpg",
+            "source_frame_index": 200,
+            "timestamp_seconds": 6.666666666666667
+        },
+        {
+            "output_frame": "frame_0051.jpg",
+            "source_frame_index": 204,
+            "timestamp_seconds": 6.8
+        },
+        {
+            "output_frame": "frame_0052.jpg",
+            "source_frame_index": 208,
+            "timestamp_seconds": 6.933333333333334
+        },
+        {
+            "output_frame": "frame_0053.jpg",
+            "source_frame_index": 212,
+            "timestamp_seconds": 7.066666666666666
+        },
+        {
+            "output_frame": "frame_0054.jpg",
+            "source_frame_index": 216,
+            "timestamp_seconds": 7.2
+        },
+        {
+            "output_frame": "frame_0055.jpg",
+            "source_frame_index": 220,
+            "timestamp_seconds": 7.333333333333333
+        },
+        {
+            "output_frame": "frame_0056.jpg",
+            "source_frame_index": 224,
+            "timestamp_seconds": 7.466666666666667
+        },
+        {
+            "output_frame": "frame_0057.jpg",
+            "source_frame_index": 228,
+            "timestamp_seconds": 7.6
+        },
+        {
+            "output_frame": "frame_0058.jpg",
+            "source_frame_index": 232,
+            "timestamp_seconds": 7.733333333333333
+        },
+        {
+            "output_frame": "frame_0059.jpg",
+            "source_frame_index": 236,
+            "timestamp_seconds": 7.866666666666666
+        },
+        {
+            "output_frame": "frame_0060.jpg",
+            "source_frame_index": 240,
+            "timestamp_seconds": 8.0
+        },
+        {
+            "output_frame": "frame_0061.jpg",
+            "source_frame_index": 244,
+            "timestamp_seconds": 8.133333333333333
+        },
+        {
+            "output_frame": "frame_0062.jpg",
+            "source_frame_index": 248,
+            "timestamp_seconds": 8.266666666666667
+        },
+        {
+            "output_frame": "frame_0063.jpg",
+            "source_frame_index": 252,
+            "timestamp_seconds": 8.4
+        },
+        {
+            "output_frame": "frame_0064.jpg",
+            "source_frame_index": 256,
+            "timestamp_seconds": 8.533333333333333
+        },
+        {
+            "output_frame": "frame_0065.jpg",
+            "source_frame_index": 260,
+            "timestamp_seconds": 8.666666666666666
+        },
+        {
+            "output_frame": "frame_0066.jpg",
+            "source_frame_index": 264,
+            "timestamp_seconds": 8.8
+        },
+        {
+            "output_frame": "frame_0067.jpg",
+            "source_frame_index": 268,
+            "timestamp_seconds": 8.933333333333334
+        },
+        {
+            "output_frame": "frame_0068.jpg",
+            "source_frame_index": 272,
+            "timestamp_seconds": 9.066666666666666
+        },
+        {
+            "output_frame": "frame_0069.jpg",
+            "source_frame_index": 276,
+            "timestamp_seconds": 9.2
+        },
+        {
+            "output_frame": "frame_0070.jpg",
+            "source_frame_index": 280,
+            "timestamp_seconds": 9.333333333333334
+        },
+        {
+            "output_frame": "frame_0071.jpg",
+            "source_frame_index": 284,
+            "timestamp_seconds": 9.466666666666667
+        },
+        {
+            "output_frame": "frame_0072.jpg",
+            "source_frame_index": 288,
+            "timestamp_seconds": 9.6
+        },
+        {
+            "output_frame": "frame_0073.jpg",
+            "source_frame_index": 292,
+            "timestamp_seconds": 9.733333333333333
+        },
+        {
+            "output_frame": "frame_0074.jpg",
+            "source_frame_index": 296,
+            "timestamp_seconds": 9.866666666666667
+        },
+        {
+            "output_frame": "frame_0075.jpg",
+            "source_frame_index": 300,
+            "timestamp_seconds": 10.0
+        },
+        {
+            "output_frame": "frame_0076.jpg",
+            "source_frame_index": 304,
+            "timestamp_seconds": 10.133333333333333
+        },
+        {
+            "output_frame": "frame_0077.jpg",
+            "source_frame_index": 308,
+            "timestamp_seconds": 10.266666666666667
+        },
+        {
+            "output_frame": "frame_0078.jpg",
+            "source_frame_index": 312,
+            "timestamp_seconds": 10.4
+        },
+        {
+            "output_frame": "frame_0079.jpg",
+            "source_frame_index": 316,
+            "timestamp_seconds": 10.533333333333333
+        },
+        {
+            "output_frame": "frame_0080.jpg",
+            "source_frame_index": 320,
+            "timestamp_seconds": 10.666666666666666
+        },
+        {
+            "output_frame": "frame_0081.jpg",
+            "source_frame_index": 324,
+            "timestamp_seconds": 10.8
+        },
+        {
+            "output_frame": "frame_0082.jpg",
+            "source_frame_index": 328,
+            "timestamp_seconds": 10.933333333333334
+        },
+        {
+            "output_frame": "frame_0083.jpg",
+            "source_frame_index": 332,
+            "timestamp_seconds": 11.066666666666666
+        },
+        {
+            "output_frame": "frame_0084.jpg",
+            "source_frame_index": 336,
+            "timestamp_seconds": 11.2
+        },
+        {
+            "output_frame": "frame_0085.jpg",
+            "source_frame_index": 340,
+            "timestamp_seconds": 11.333333333333334
+        },
+        {
+            "output_frame": "frame_0086.jpg",
+            "source_frame_index": 344,
+            "timestamp_seconds": 11.466666666666667
+        },
+        {
+            "output_frame": "frame_0087.jpg",
+            "source_frame_index": 348,
+            "timestamp_seconds": 11.6
+        },
+        {
+            "output_frame": "frame_0088.jpg",
+            "source_frame_index": 352,
+            "timestamp_seconds": 11.733333333333333
+        },
+        {
+            "output_frame": "frame_0089.jpg",
+            "source_frame_index": 356,
+            "timestamp_seconds": 11.866666666666667
+        },
+        {
+            "output_frame": "frame_0090.jpg",
+            "source_frame_index": 360,
+            "timestamp_seconds": 12.0
+        },
+        {
+            "output_frame": "frame_0091.jpg",
+            "source_frame_index": 364,
+            "timestamp_seconds": 12.133333333333333
+        },
+        {
+            "output_frame": "frame_0092.jpg",
+            "source_frame_index": 368,
+            "timestamp_seconds": 12.266666666666667
+        },
+        {
+            "output_frame": "frame_0093.jpg",
+            "source_frame_index": 372,
+            "timestamp_seconds": 12.4
+        },
+        {
+            "output_frame": "frame_0094.jpg",
+            "source_frame_index": 376,
+            "timestamp_seconds": 12.533333333333333
+        },
+        {
+            "output_frame": "frame_0095.jpg",
+            "source_frame_index": 380,
+            "timestamp_seconds": 12.666666666666666
+        },
+        {
+            "output_frame": "frame_0096.jpg",
+            "source_frame_index": 384,
+            "timestamp_seconds": 12.8
+        },
+        {
+            "output_frame": "frame_0097.jpg",
+            "source_frame_index": 388,
+            "timestamp_seconds": 12.933333333333334
+        },
+        {
+            "output_frame": "frame_0098.jpg",
+            "source_frame_index": 392,
+            "timestamp_seconds": 13.066666666666666
+        },
+        {
+            "output_frame": "frame_0099.jpg",
+            "source_frame_index": 396,
+            "timestamp_seconds": 13.2
+        }
+    ]
+}
