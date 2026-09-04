@@ -335,8 +335,6 @@ That's it — no other setup is needed to visualize a result.
 
 Screenshots demonstrating successful execution are stored in [`image-proof/`](https://claude.ai/chat/image-proof).
 
-> **Note:** Add your images to `image-proof/` with the filenames below — GitHub will render them automatically once pushed.
-
 **Overall Reconstruction Pipeline**
 
 ![Reconstruction Pipeline](./image-proof/reconstruction_pipeline.png)
@@ -352,7 +350,6 @@ Screenshots demonstrating successful execution are stored in [`image-proof/`](ht
 **CUDA / GPU Verification**
 
 ![CUDA Verification](./image-proof/cuda-error.png)
-
 
 ---
 
