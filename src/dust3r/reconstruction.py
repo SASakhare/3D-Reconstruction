@@ -12,7 +12,9 @@ def reconstruct(
     frames_dir: str | Path,
     checkpoint_path: str | Path,
     output_dir: str | Path,
-    scene_graph:str="swin-2"
+    scene_graph:str="swin-2",
+    niter:int=300,
+    lr:float=0.01
 ):
     frames_dir = Path(frames_dir)
     checkpoint_path = Path(checkpoint_path)
@@ -102,9 +104,9 @@ def reconstruct(
 
     loss = scene.compute_global_alignment(
         init="mst",
-        niter=300,
+        niter=niter,
         schedule="cosine",
-        lr=0.01,
+        lr=lr,
     )
 
     print("Global alignment completed.")
